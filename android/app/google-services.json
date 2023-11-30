@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978959575636",
+    "project_id": "masterofmaincraft-27bc7",
+    "storage_bucket": "masterofmaincraft-27bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978959575636:android:4fb104981c4fceadf51bc1",
+        "android_client_info": {
+          "package_name": "com.example.masterofmaincraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl6iGeVTk-MS0q-NHXJzx1vwhBVL65494"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
